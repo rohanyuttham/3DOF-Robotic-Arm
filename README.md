@@ -1,3 +1,5 @@
-# 3DOF-Robotic-Arm
-3D model and working code of 3DOF Robotic arm.Refer to report
-August 2018
+Project : Development of a 3D model of a Robotic arm
+
+The arm is fully functional in a 3D space with thee help of only two servo motors.
+
+Made in August 2018 as a Individual project.
